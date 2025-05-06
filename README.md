@@ -1,0 +1,2 @@
+# FOODHUB-ENTERPRISE-TECHNICAL-ANALYSIS-REPORT-FOR-THE-YEAR-2019
+I recently completed this Foodhub enterprise sales data analysis project, This project seeks to analyse sales performance of Foodhub enterprise and the salespersons, the products and the customers in the different regions and yearly sales. This technical analysis aims to improve the organisation’s productivity and boost revenue generation.
