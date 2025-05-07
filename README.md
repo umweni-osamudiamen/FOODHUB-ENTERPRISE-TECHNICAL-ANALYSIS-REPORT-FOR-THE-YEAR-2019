@@ -40,6 +40,7 @@ The above chart is the analytical dashboard for this project, showing the trends
 
 RECOMMENDATIONS AND OBSERVATIONS
 Analysis Observations
+
 1. Andrew Cencini did well with a revenue of $67,180.50 for the year 2019, his sales were mostly in New York in the Northern region. He made more sales in four different months and the top two sales in June $11,595.00 and December $11,026.00. Andrew sold 15 items that are between 0–1000, 4 items between 3000–4000, 4 items between 4000–5000, 3 items between 2000–3000, 2 items between 6000–7000, and 2 items between 1000–2000.
 2. He is in the top city with highest revenue (New York) $67,180.50. Andrew’s top-selling products were Jams preserves at $41,391.00, dried fruits & nuts at $11,669.50, pasta sold at $9,120.00 for the year, grain at $2,884.00, and baked goods & mixes sold at $2,116.00.
 3. Andrew’s top customer is company D, with grossing of $67,180.50. Andrew is in the Eastern region with a gross revenue of $108,275.51
@@ -65,6 +66,7 @@ Analysis Observations
 23. Dairy product account for the best sold product for Robert at $18,444.00, then the pasta gave an average performance from observation and soups at $3,030.10. Salt Lake City was the best city for Robert.
 6. Salt Lake City was the best city and also the top ship city for Robert in 2019. The top performing month for Robert was October and in the trend from largest to smallest $4,542.85, $4,322.30, $3,930.30, $3,850.00, $2,997.60, $2,964.90, $2,919.60, $2,886.60, $260.55, and $1,455.30, Robert sold 11 items between 0–1000, 10 items between 1000–2000 then 4 items sold at 2000–3000 and 3000–4000 had only 1 item last.
 Analysis Recommendations
+
 1. Recommendation, Nancy Freeshafer the top performing sales person, should be rewarded with bonuses or promotion or both.
 2. Jan is recommended to the executives for retrenchment or sent for further training to help him improve on sales policy implementation and customer retention
 3. Company D is recommended for award as the best customer for the year 2019 or rewarded with bonuses or discount or both to encourage them to perform more.
@@ -75,5 +77,6 @@ Analysis Recommendations
 8. New York top the top 5 City for 2019, while Chicago performs the least recommendation would be to do a cross fertilization of ideas between the staff of these cities. For the items between 0–1000 that sold the highest recommendation would be that more of that product range be stocked to enable more sales and also generate more revenue. The product not doing in the west can be sent to the North where they doing very fine.
 9. Since observation shows that almost every sales person has beverage as part of the top 3 selling product, recommendation is that beverages should be stocked in every City, and all sales person be mandated to sell it. If there is any method; adverts, publicity or promotion done for beverages, recommendation is that same be applied to poor selling products
 10. December sales exceeded those of any other month for the top salesperson; therefore, all sales should be encouraged to apply the method used by the top salesperson in December in other months that are not doing so well.
+
 CONCLUSION: From this analysis, insights discovered are that Nancy Freeshafer is the top sales person, Foodhub Enterprise is well established in the North region with a reasonable market share, Jan is the least revenue generating sales person, Foodhub needs to engage more customers in the west, driven sales in the west and engage in promotional activities. Beverge is a product that must not go “out of stock”.
 In the cause of this analysis some of the limitations were inadequate sales data for the analysis making sales trend inconclusive, no consideration for logistics data which can influence sales and other staff in the facilities were not considered, based on this, future research should be broader in the years to consider and also include other factors like company logistics arrangement, data gathering process as well.
