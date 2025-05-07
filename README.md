@@ -6,13 +6,14 @@ Data Splitting and Preprocessing: After downloading the data, observation was ca
 The industry, is a grocery store (food and beverage) with revenue means, and the stakeholders are; Chief executives, Top managers, Investor, Customers and Product Consumers.
 Value to the Industry: As a product and service organisation, revenue and more revenue is the target while delivering services, so this project will help the organisation know the untapped areas, reach customers and redefine its revenue generation. Success means expansion to other countries for more revenue. Success here is having multiple revenue means.
 ![Screenshot 2025-03-16 195006](https://github.com/user-attachments/assets/9b8340d4-dc78-440b-8754-05e99426a195)
+
 PRE-ANALYSIS:
 Potential Analysis/ Questions
 Best performing region by revenue generated, performance analysis of each salesperson by revenue generated, customer performance analysis by revenue, customer performance analysis by quantity purchased, payment type usage, best performing goods for the year by quantity. Best-performing month or week, region with most sales.
 Initial/ Potential Insight
 1. Fine-tune the best region and explore measures to gain more growth against competitors, e.g. more advertising. We can also fine-tune the least performing region and implement measures done in the best performing region, and ensure that these measures are kept in place, e.g. transferring a salesperson from the region with great sales to the region with low sales to ensure they enact measures enacted at the best performing region. The most used payment type, stocking the most purchased goods, especially in regions where they are sold more, the countries that received more shipments in the period under review. The best category of products based on sales and the amount of revenue it generated, regional performance, and monthly sales trend.
+   
 IN ANALYSIS INSIGHTS:
-
 Jan performed least for the year and i recommend to stakeholders that he should be retrenched or sent for some trainings on sales and customer retention and Nancy for promotion or bonus be given to her.
 
 Analyst team recommend Company D for discount or free nomination for company of the year award and marketer or promotion team be sent to educate lower performing companies.
