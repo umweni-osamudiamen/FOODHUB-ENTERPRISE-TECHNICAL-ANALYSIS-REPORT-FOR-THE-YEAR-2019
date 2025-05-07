@@ -1,15 +1,21 @@
 # FOODHUB-ENTERPRISE-TECHNICAL-ANALYSIS-REPORT-FOR-THE-YEAR-2019
+
 I recently completed this Foodhub enterprise sales data analysis project, This project seeks to analyse sales performance of Foodhub enterprise and the salespersons, the products and the customers in the different regions and yearly sales. This technical analysis aims to improve the organisation’s productivity and boost revenue generation.
 The dataset used contains: product name, salesperson, region, year, income/revenue, customers, etc. This data was analysed using Microsoft Excel, pivot tables and charts down to it visualization.
+
 Story of Data: This dataset was downloaded from Kaggle, and it is secondary data. The data, presented in rows and columns, tells a story of the different grocery products sold by the firm in different countries. It also highlights different quantities purchased, to ship, and for shipping. It has the following in the column: product name, salesperson, region, year, income/revenue, and customers.
+
 Data Splitting and Preprocessing: After downloading the data, observation was carried out for duplicates, and inconsistency but the data was found to be clean already. There were no missing values, upon observation, the data that has stand-alone abilities where categorised as independent data like the salesperson, region, product name and those that depends on the above mentioned were classified dependent data.
+
 The industry, is a grocery store (food and beverage) with revenue means, and the stakeholders are; Chief executives, Top managers, Investor, Customers and Product Consumers.
 Value to the Industry: As a product and service organisation, revenue and more revenue is the target while delivering services, so this project will help the organisation know the untapped areas, reach customers and redefine its revenue generation. Success means expansion to other countries for more revenue. Success here is having multiple revenue means.
+
 ![Screenshot 2025-03-16 195006](https://github.com/user-attachments/assets/9b8340d4-dc78-440b-8754-05e99426a195)
 
 PRE-ANALYSIS:
 Potential Analysis/ Questions
 Best performing region by revenue generated, performance analysis of each salesperson by revenue generated, customer performance analysis by revenue, customer performance analysis by quantity purchased, payment type usage, best performing goods for the year by quantity. Best-performing month or week, region with most sales.
+
 Initial/ Potential Insight
 1. Fine-tune the best region and explore measures to gain more growth against competitors, e.g. more advertising. We can also fine-tune the least performing region and implement measures done in the best performing region, and ensure that these measures are kept in place, e.g. transferring a salesperson from the region with great sales to the region with low sales to ensure they enact measures enacted at the best performing region. The most used payment type, stocking the most purchased goods, especially in regions where they are sold more, the countries that received more shipments in the period under review. The best category of products based on sales and the amount of revenue it generated, regional performance, and monthly sales trend.
    
@@ -25,8 +31,12 @@ The measures used in the North region be repeated in West and if possible, move 
 Products in the beverages category should be stocked more to avoid stockouts and increase revenue. Products selling between 1000–2000 should be stocked more, thereby avoiding stock out since it sells the highest.
 
 Set a sub-headquarters in New York to ensure more customers get interested in lower shipping fee, encouraging prior unacquired customers. the region recorded the highest sales by revenue of $141,660.34.
+
 Analysis techniques: Pivot table, standard Excel table.
-Post-Analysis and Insights: This analysis reveal a key correlation between the revenue generated, salesperson and region, it was discovered that best performing sales person had the highest revenue and belong to the best region too.
+
+Post-Analysis and Insights:
+This analysis reveal a key correlation between the revenue generated, salesperson and region, it was discovered that best performing sales person had the highest revenue and belong to the best region too.
+
 ![image](https://github.com/user-attachments/assets/8bacddc1-8214-4401-9e46-eb8e835e2b99)
 ![image](https://github.com/user-attachments/assets/dfddb656-efd8-409b-a235-4b3060b8ee53)
 ![image](https://github.com/user-attachments/assets/8bacb2c7-2416-4f85-832f-cb86f92dae57)
@@ -65,6 +75,7 @@ Analysis Observations
 22. Robert Zare had fairly performance, from observation his total sales were at $32,530.60 for the year 2019. Observation of the company I, shows is the best customer for Robert for the year 2019, Robert Zare also is from the west and the west has a bad performance generally.
 23. Dairy product account for the best sold product for Robert at $18,444.00, then the pasta gave an average performance from observation and soups at $3,030.10. Salt Lake City was the best city for Robert.
 6. Salt Lake City was the best city and also the top ship city for Robert in 2019. The top performing month for Robert was October and in the trend from largest to smallest $4,542.85, $4,322.30, $3,930.30, $3,850.00, $2,997.60, $2,964.90, $2,919.60, $2,886.60, $260.55, and $1,455.30, Robert sold 11 items between 0–1000, 10 items between 1000–2000 then 4 items sold at 2000–3000 and 3000–4000 had only 1 item last.
+7. 
 Analysis Recommendations
 
 1. Recommendation, Nancy Freeshafer the top performing sales person, should be rewarded with bonuses or promotion or both.
